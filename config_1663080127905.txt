@@ -1,0 +1,32 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx6e8491cd6206c8ad
+",
+# 公众号appSecret
+"app_secret": "c959cf3155b9517679c2d0e697fd3142",
+# 模板消息id
+"template_id": "LKHo4-qbF1VJBwO1fbJia516WA4ie4g9SmiWbiyw8cM
+",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["orHfa6f0HXiNN7VcYeTXGegiBP_0"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "https://devapi.qweather.com",
+# 天行数据apikey
+"tian_api": "6c19d5bec140c893071022d26bddd571
+",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "洋县",
+# 生日1
+"birthday1": {"name": "解浩然", "birthday": "2003-11-07"},
+# 生日2
+"birthday2": {"name": "席小露", "birthday": "r2004-11-28（阴历）"},
+# 在一起的日子，格式同上
+"love_date": "2021-09-12",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "希望席小露和解浩然在一起的每一天都是快乐的一天",
+# 金句英文
+"note_en": "I WILL BE WITH YOU FOREVER."
+}
